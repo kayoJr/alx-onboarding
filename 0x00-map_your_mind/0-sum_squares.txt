@@ -1,0 +1,8 @@
+START
+INPUT : Num1 
+INPUT : Num2
+Num1_sqr = Num1 * Num1
+Num2_sqr = Num2 * Num2
+Sum = Num1_sqr + Num2_sqr
+PRINT Sum
+END
